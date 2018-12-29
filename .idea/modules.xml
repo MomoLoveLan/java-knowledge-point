@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-knowledge-point.iml" filepath="$PROJECT_DIR$/java-knowledge-point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-modules/springboot-modules.iml" filepath="$PROJECT_DIR$/springboot-modules/springboot-modules.iml" />
     </modules>
   </component>
 </project>
