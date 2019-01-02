@@ -25,6 +25,7 @@ public class SubStrSplit {
             str = "接口优化,敬请稍后重试！";
         }
 
-
+        // result：8000aaa#2.0#002#你好啊
+        //         8000
     }
 }
