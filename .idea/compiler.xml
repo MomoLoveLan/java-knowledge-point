@@ -6,15 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springlog" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot-log" target="1.8" />
+      <module name="springlog" target="1.8" />
+      <module name="springlogdemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot-log" options="-parameters" />
+      <module name="springlog" options="-parameters" />
+      <module name="springlogdemo" options="-parameters" />
     </option>
   </component>
 </project>
