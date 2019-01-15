@@ -2,48 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e4910d-20e5-4097-bd2c-9972361ec23f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/point_A/src/momo/lan/lambda/Lambda_map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/point_A/src/momo/lan/lambda/Lambda_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/point_A/src/momo/lan/字符串/SubStrReplise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/point_A/src/momo/lan/字符串/SubStrSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/point_A/src/momo/lan/字符串/空字符串的判断.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-knowledge-point.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/point/com/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/point/com/java/字符串/SubStrReplise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/point/com/java/字符串/SubStrSplit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/point/com/java/字符串/空字符串的判断.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/src/main/java/com/momo/PointApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/src/main/java/com/momo/controller/ArrayAndMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/src/main/java/com/momo/controller/MenuController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/src/main/java/com/momo/utils/MenuUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/src/main/java/com/momo/注解/AT_Nullable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-modules/src/main/resources/menu.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springlog/SpringlogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/src/main/SpringlogApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/momo/lan/log/LogApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/momo/lan/字符串/SubStrReplise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/momo/lan/字符串/SubStrSplit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/momo/lan/字符串/空字符串的判断.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/springlog/SpringlogApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/src/SpringlogApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/momo/lan/log/LogApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,43 +24,7 @@
     <favorites_list name="java-knowledge-point" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/point_A/src/momo/lan/lambda/Lambda_map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/point_A/src/momo/lan/lambda/Lambda_sort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,8 +57,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="394" />
-    <option name="y" value="23" />
+    <option name="x" value="6" />
     <option name="width" value="1386" />
     <option name="height" value="741" />
   </component>
@@ -137,6 +66,7 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
+      <flattenPackages PackagesPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -165,36 +95,18 @@
             </path>
             <path>
               <item name="java-knowledge-point" type="58d84e3e:PackageViewProjectNode" />
-              <item name="point_A" type="616d4139:PackageViewModuleNode" />
-              <item name="momo.lan" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java-knowledge-point" type="58d84e3e:PackageViewProjectNode" />
-              <item name="point_A" type="616d4139:PackageViewModuleNode" />
-              <item name="momo.lan" type="1f31426a:PackageElementNode" />
-              <item name="lambda" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java-knowledge-point" type="58d84e3e:PackageViewProjectNode" />
               <item name="springlog" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
               <item name="java-knowledge-point" type="58d84e3e:PackageViewProjectNode" />
               <item name="springlog" type="616d4139:PackageViewModuleNode" />
-              <item name="momo" type="1f31426a:PackageElementNode" />
+              <item name="src" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="java-knowledge-point" type="58d84e3e:PackageViewProjectNode" />
               <item name="springlog" type="616d4139:PackageViewModuleNode" />
-              <item name="momo" type="1f31426a:PackageElementNode" />
-              <item name="lan" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="java-knowledge-point" type="58d84e3e:PackageViewProjectNode" />
-              <item name="springlog" type="616d4139:PackageViewModuleNode" />
-              <item name="momo" type="1f31426a:PackageElementNode" />
-              <item name="lan" type="1f31426a:PackageElementNode" />
-              <item name="字符串" type="1f31426a:PackageElementNode" />
+              <item name="src" type="1f31426a:PackageElementNode" />
+              <item name="main" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -205,12 +117,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547522285559" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547522530733" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New 新建Scratch文件..." value="JAVA" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/src/main" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
@@ -219,6 +132,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\ideaWorks\java-sb-point\java-knowledge-point\point_A\src\momo\lan\log" />
       <recent name="F:\ideaWorks\java-sb-point\java-knowledge-point\point_A\src\momo\lan" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src.main.java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\ideaWorks\java-sb-point\java-knowledge-point\point_A" />
@@ -343,18 +259,17 @@
       <updated>1546752528331</updated>
       <workItem from="1546752543259" duration="66000" />
       <workItem from="1546752675413" duration="58000" />
-      <workItem from="1547518685578" duration="3598000" />
+      <workItem from="1547518685578" duration="4222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3722000" />
+    <option name="totallyTimeSpent" value="4346000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="17" width="1386" height="741" extended-state="0" />
-    <editor active="true" />
+    <frame x="6" y="0" width="1386" height="741" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.15987934" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.15987934" />
       <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.25718608" />
       <window_info id="Learn" order="2" weight="0.32980332" />
       <window_info id="Image Layers" order="3" />
@@ -365,13 +280,13 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24876441" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.63261944" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.49093905" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -403,9 +318,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/point_A/src/momo/lan/字符串/空字符串的判断.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/point_A/src/momo/lan/log/LogApplication.java">
@@ -469,13 +381,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/point_A/src/momo/lan/lambda/Lambda_sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        <state relative-caret-position="268">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#643#644#0" expanded="true" />
             <element signature="e#700#701#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_A/src/momo/lan/字符串/空字符串的判断.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -531,7 +450,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>point_A</last-edited>
+          <last-edited>springlog</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,13 +1,13 @@
-package momo.lan.log;
+package spring.log;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LogApplication {
+public class SpringlogApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LogApplication.class, args);
+        SpringApplication.run(SpringlogApplication.class, args);
     }
 
 }
