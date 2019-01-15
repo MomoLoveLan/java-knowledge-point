@@ -12,11 +12,11 @@ import java.util.Map;
 public class ArrayAndMap {
 
     // 数组
-    public static void myArray(){
+    public static void myArray() {
         try {
             String[] str = new String[]{"a", "b"};
             System.out.println(str[2]);
-        } catch (ArrayIndexOutOfBoundsException aiddfe){
+        } catch (ArrayIndexOutOfBoundsException aiddfe) {
             System.out.println("aiddfe: 数组长度不够，");
         } catch (Exception e) {
             e.printStackTrace();

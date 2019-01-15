@@ -3,7 +3,7 @@ package com.java.字符串;
 /**
  * @author zhanghui2018
  * @ClassName SubStrSplit
- * @Description   split
+ * @Description split
  * @date 2018/12/29 15:05
  */
 public class SubStrSplit {
@@ -13,7 +13,7 @@ public class SubStrSplit {
         String str = string;
         code = Integer.parseInt(string.split("!DX!")[0]);
         str = string.split("!DX!")[1];
-        System.out.println(code+str);
+        System.out.println(code + str);
         String sCode = ("" + code);
         System.out.println(sCode);
         if (sCode.contains("8000")) {

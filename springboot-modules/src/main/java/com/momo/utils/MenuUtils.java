@@ -17,11 +17,13 @@ public class MenuUtils {
     public static JSONObject createMenu() {
         return getMenuResult();
     }
+
     private static JSONObject getMenuResult() {
         String menu = readMenuCfg();
         JSONObject result = JSONObject.fromObject(menu);
         return result;
     }
+
     /**
      * 读取菜单配置
      */
@@ -33,7 +35,7 @@ public class MenuUtils {
             String basePath = MenuUtils.class.getResource("").getPath();
             path = (basePath.split("file:/"))[1].split("MomoLanWechat")[0] + "config/menu.cfg";
             System.out.println("服务地址");
-        }catch (ArrayIndexOutOfBoundsException ae){
+        } catch (ArrayIndexOutOfBoundsException ae) {
             // 取大于数组最大下标时报错处理
             // 本地地址
             path = MenuUtils.class.getClassLoader().getResource("menu.cfg").getPath();
@@ -56,7 +58,7 @@ public class MenuUtils {
             } catch (Exception e) {
                 e.printStackTrace();
             }
-        } catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
         return menu.toString();

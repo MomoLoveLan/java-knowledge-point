@@ -15,10 +15,12 @@ public class AT_Nullable {
         System.out.println(nullable_b(null));
         System.out.println(nullable_b("sss"));
     }
+
     public static String nullable_a(String method) {
-        return method != null ? method+"不等于null":method+"==null";
+        return method != null ? method + "不等于null" : method + "==null";
     }
+
     public static String nullable_b(@NotNull String method) {
-        return method != null ? method+"不等于null":method+"==null";
+        return method != null ? method + "不等于null" : method + "==null";
     }
 }
